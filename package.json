@@ -1,8 +1,8 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "v1",
+  "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Mauli_Cious_Ware <sraut2@binghamton.edu>",
+  "author": "Shreemauli Raut",
   "repository": {
     "type": "git",
     "url": "https://github.com/MrMaddy7/Profolio_Website"
@@ -10,7 +10,6 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
     "build": "gatsby build",
